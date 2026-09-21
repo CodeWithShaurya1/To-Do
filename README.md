@@ -22,3 +22,14 @@ A simple and user-friendly To-Do List web application built using HTML, CSS, and
 1. Clone this repository:
    ```bash
    git clone https://github.com/CodeWithShaurya1/To-Do.git
+2. Open the project folder.
+3. Open index.html in your browser.
+📸 Preview
+
+The application provides a clean and simple interface for managing daily tasks.
+
+👨‍💻 Author
+
+Shaurya Bansal
+
+GitHub: @CodeWithShaurya1
