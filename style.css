@@ -169,3 +169,16 @@ p {
     width: 300px;
   }
 }
+#author{
+  position: absolute;
+  bottom: 20px;       /* Pushes it 20px up from the absolute bottom */
+  left: 50%;          /* Moves it to the horizontal center */
+  transform: translateX(-50%); /* Ensures it is perfectly centered */
+  
+  /* Styling to match the subtle look in the image */
+  color: rgba(255, 255, 255, 0.4); /* Faded white/grey color */
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+}
